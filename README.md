@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Webert also know as on internet @Xushuu
+- 👋 Hi, I’m Webert also know as @Xushuu on internet 
 - 👀 I’m interested in learning about everything, how things are done and how things work 
 - 🌱 I’m currently learning python and JS. I'm new on dev.
 - 📫 How to reach me ... Discord - Xushuu#9244
